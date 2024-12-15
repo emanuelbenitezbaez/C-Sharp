@@ -42,7 +42,7 @@ Visual Studio (recomendado, versión 2022 o superior)
 
 Visual Studio es un IDE completo que te ofrece potentes herramientas para desarrollar en C#. Si prefieres una opción más ligera, también puedes usar Visual Studio Code con la extensión de C# instalada.
 
-Herramientas de Línea de Comandos de .NET (CLI) (opcional)
+Herramientas de Línea de Comandos de .NET (CLI) (esto es opcional)
 
 Si prefieres trabajar con la línea de comandos, puedes utilizar el CLI de .NET para crear, compilar y ejecutar proyectos.
 
