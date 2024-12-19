@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\bin\Debug\net8.0\StructuredProgrammingExample.exe
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\bin\Debug\net8.0\StructuredProgrammingExample.deps.json
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\bin\Debug\net8.0\StructuredProgrammingExample.runtimeconfig.json
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\bin\Debug\net8.0\StructuredProgrammingExample.dll
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\bin\Debug\net8.0\StructuredProgrammingExample.pdb
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.sourcelink.json
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.dll
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\refint\StructuredProgrammingExample.dll
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.pdb
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\StructuredProgrammingExample.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgrammingExample\obj\Debug\net8.0\ref\StructuredProgrammingExample.dll

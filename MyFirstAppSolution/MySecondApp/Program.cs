@@ -5,7 +5,13 @@ namespace MySecondApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from my second App!");
+            
+            string message = string.Empty;
+            Console.WriteLine("Ingrese un mensaje:");
+            message = Console.ReadLine();
+            Console.WriteLine("Resultado: " +message);
+            Console.Read();
+
         }
     }
 }

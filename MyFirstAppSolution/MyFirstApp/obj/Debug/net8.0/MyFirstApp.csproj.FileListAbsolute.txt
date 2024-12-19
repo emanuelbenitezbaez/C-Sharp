@@ -7,9 +7,9 @@ C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirst
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfoInputs.cache
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfo.cs
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.sourcelink.json
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.dll
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\refint\MyFirstApp.dll
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
-C:\Users\benit\Desktop\C#\MyFirstAppSolution\MyFirstApp\obj\Debug\net8.0\MyFirstApp.sourcelink.json

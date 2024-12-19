@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\bin\Debug\net8.0\SquareAreaCalculator.exe
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\bin\Debug\net8.0\SquareAreaCalculator.deps.json
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\bin\Debug\net8.0\SquareAreaCalculator.runtimeconfig.json
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\bin\Debug\net8.0\SquareAreaCalculator.dll
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\bin\Debug\net8.0\SquareAreaCalculator.pdb
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.sourcelink.json
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.dll
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\refint\SquareAreaCalculator.dll
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.pdb
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\SquareAreaCalculator.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\TriangleAreaCalculator\obj\Debug\net8.0\ref\SquareAreaCalculator.dll

@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.exe
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.deps.json
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.runtimeconfig.json
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.dll
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.pdb
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.sourcelink.json
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.dll
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\refint\CircleAreaCalculator.dll
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.pdb
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\net8.0\ref\CircleAreaCalculator.dll

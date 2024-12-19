@@ -7,6 +7,7 @@ C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\MySeco
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\MySecondApp.AssemblyInfoInputs.cache
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\MySecondApp.AssemblyInfo.cs
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\MySecondApp.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\MySecondApp.sourcelink.json
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\MySecondApp.dll
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\refint\MySecondApp.dll
 C:\Users\benit\Desktop\C#\MyFirstAppSolution\MySecondApp\obj\Debug\net8.0\MySecondApp.pdb
