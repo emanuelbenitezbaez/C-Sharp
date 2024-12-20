@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.exe
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.deps.json
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.runtimeconfig.json
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.dll
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.pdb
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.sourcelink.json
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.dll
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\refint\StructuredProgramming.dll
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.pdb
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\StructuredProgrammingExample\StructuredProgramming\obj\Debug\net8.0\ref\StructuredProgramming.dll
