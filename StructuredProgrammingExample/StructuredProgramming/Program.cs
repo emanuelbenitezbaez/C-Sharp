@@ -1,6 +1,6 @@
 ﻿
 
-using System.Runtime.CompilerServices;
+
 
 namespace StructuredProgramming
 {
@@ -67,12 +67,6 @@ namespace StructuredProgramming
             } while (operation != 0);
 
             Console.Clear();
-
-
-
-
-
-
 
 
         }
