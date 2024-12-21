@@ -64,6 +64,18 @@ namespace OtrasEstructuras
             }
 
 
+            Dictionary<string, double> fruitCost = new Dictionary<string, double>();
+            fruitCost.Add("apple", 0.99);
+            fruitCost.Add("banana", 0.59);
+            fruitCost.Add("cherry", 2.99);
+
+            foreach (KeyValuePair<string, double> item in fruitCost)
+            {
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                Console.WriteLine($"Clave: {item.Key} Valor: {item.Value}");
+            }
+
+
 
 
         }
