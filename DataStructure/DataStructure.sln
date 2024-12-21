@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilasStack", "PilasStack\Pi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColasQueue", "ColasQueue\ColasQueue.csproj", "{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{F41108B4-C876-4D90-B157-C69D286921F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtrasEstructuras", "OtrasEstructuras\OtrasEstructuras.csproj", "{F1243917-55EC-4E80-9A0A-E451BAB99C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41108B4-C876-4D90-B157-C69D286921F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41108B4-C876-4D90-B157-C69D286921F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41108B4-C876-4D90-B157-C69D286921F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41108B4-C876-4D90-B157-C69D286921F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1243917-55EC-4E80-9A0A-E451BAB99C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1243917-55EC-4E80-9A0A-E451BAB99C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1243917-55EC-4E80-9A0A-E451BAB99C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1243917-55EC-4E80-9A0A-E451BAB99C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

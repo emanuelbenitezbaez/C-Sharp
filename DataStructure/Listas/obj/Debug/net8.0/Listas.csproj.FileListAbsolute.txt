@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\DataStructure\Listas\bin\Debug\net8.0\Listas.exe
+C:\Users\benit\Desktop\C#\DataStructure\Listas\bin\Debug\net8.0\Listas.deps.json
+C:\Users\benit\Desktop\C#\DataStructure\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+C:\Users\benit\Desktop\C#\DataStructure\Listas\bin\Debug\net8.0\Listas.dll
+C:\Users\benit\Desktop\C#\DataStructure\Listas\bin\Debug\net8.0\Listas.pdb
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.sourcelink.json
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.dll
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\refint\Listas.dll
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.pdb
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\DataStructure\Listas\obj\Debug\net8.0\ref\Listas.dll

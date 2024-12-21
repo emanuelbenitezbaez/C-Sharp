@@ -16,6 +16,8 @@ namespace ColasQueue
             count = myQueue.Count;
             Console.WriteLine($"La cola tiene {count} elementos");
 
+
+
             for (int i = 0; i < count; i++)
             {
                 word = (string)myQueue.Peek();
@@ -23,6 +25,7 @@ namespace ColasQueue
                 word = (string)myQueue.Dequeue();
                 Console.WriteLine($"Elemento {i}: {word}");
             }
+
 
             if (myQueue.Contains("tres"))
             {
