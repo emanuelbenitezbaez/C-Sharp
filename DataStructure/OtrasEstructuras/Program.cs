@@ -24,18 +24,31 @@ namespace OtrasEstructuras
             hashSetString.Add("cadena2");
             hashSetString.Add("cadena3");
             hashSetString.Add("cadena4");
-
+            //No se agrega porque ya existe
+            hashSetString.Add("cadena1");
 
 
             //Recorrer un HashSet e imprimir sus elementos
-            foreach (var item in hashSetString)
+            foreach (string item in hashSetString)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine(item);
             }
 
-            //No se agrega porque ya existe
-            hashSetString.Add("cadena1");
+            SortedSet<int> sortedSet = new SortedSet<int>();
+            sortedSet.Add(3);
+            sortedSet.Add(1);
+            sortedSet.Add(2);
+            sortedSet.Add(4);
+            sortedSet.Add(5);
+
+            //Recorrer un SortedSet e imprimir sus elementos
+            foreach (int item in sortedSet)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine(item);
+            }
+
 
             //Dictionary es una estructura de datos que permite almacenar pares de clave-valor
             Dictionary<int, string> diccionario = new Dictionary<int, string>();
