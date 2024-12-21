@@ -6,9 +6,6 @@ namespace OtrasEstructuras
         static void Main(string[] args)
         {
 
-            
-
-
             //HashSet es una estructura de datos que no permite duplicados.
             HashSet<int> hashSetInt = new HashSet<int>();
             hashSetInt.Add(1);
@@ -50,11 +47,21 @@ namespace OtrasEstructuras
             }
 
 
+
+
+
+
             //Dictionary es una estructura de datos que permite almacenar pares de clave-valor
             Dictionary<int, string> diccionario = new Dictionary<int, string>();
             diccionario.Add(1, "uno");
             diccionario.Add(2, "dos");
             diccionario.Add(3, "tres");
+
+            foreach (KeyValuePair<int, string> item in diccionario)
+            {
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine($"Clave: {item.Key} Valor: {item.Value}");
+            }
 
 
 
