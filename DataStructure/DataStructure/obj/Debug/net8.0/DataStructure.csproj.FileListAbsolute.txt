@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.exe
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.deps.json
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.runtimeconfig.json
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.dll
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.pdb
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.sourcelink.json
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.dll
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\refint\DataStructure.dll
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.pdb
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\DataStructure\DataStructure\obj\Debug\net8.0\ref\DataStructure.dll
