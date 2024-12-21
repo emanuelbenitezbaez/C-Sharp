@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DataStructure")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PilasStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e392d284ce79055fdbd355ce78db08f923e49f")]
-[assembly: System.Reflection.AssemblyProductAttribute("DataStructure")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DataStructure")]
+[assembly: System.Reflection.AssemblyProductAttribute("PilasStack")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PilasStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

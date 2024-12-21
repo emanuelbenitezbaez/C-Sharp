@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{E0B3B76F-78BF-44E4-BF32-3FAA43EAF2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilasStack", "PilasStack\PilasStack.csproj", "{2A56AA4F-C1AB-4E39-9195-4DB705AA2503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColasQueue", "ColasQueue\ColasQueue.csproj", "{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E0B3B76F-78BF-44E4-BF32-3FAA43EAF2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0B3B76F-78BF-44E4-BF32-3FAA43EAF2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0B3B76F-78BF-44E4-BF32-3FAA43EAF2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A56AA4F-C1AB-4E39-9195-4DB705AA2503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A56AA4F-C1AB-4E39-9195-4DB705AA2503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A56AA4F-C1AB-4E39-9195-4DB705AA2503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A56AA4F-C1AB-4E39-9195-4DB705AA2503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF2AE51-1051-4D78-8CA4-F7B664B0C265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

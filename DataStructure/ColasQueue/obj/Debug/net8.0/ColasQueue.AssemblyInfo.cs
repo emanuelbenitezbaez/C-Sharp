@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DataStructure")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ColasQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e392d284ce79055fdbd355ce78db08f923e49f")]
-[assembly: System.Reflection.AssemblyProductAttribute("DataStructure")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DataStructure")]
+[assembly: System.Reflection.AssemblyProductAttribute("ColasQueue")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ColasQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

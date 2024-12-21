@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\bin\Debug\net8.0\PilasStack.exe
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\bin\Debug\net8.0\PilasStack.deps.json
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\bin\Debug\net8.0\PilasStack.runtimeconfig.json
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\bin\Debug\net8.0\PilasStack.dll
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\bin\Debug\net8.0\PilasStack.pdb
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.sourcelink.json
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.dll
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\refint\PilasStack.dll
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.pdb
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\PilasStack.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\DataStructure\PilasStack\obj\Debug\net8.0\ref\PilasStack.dll

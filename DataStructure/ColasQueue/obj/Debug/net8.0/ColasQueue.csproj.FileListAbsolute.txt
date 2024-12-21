@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\bin\Debug\net8.0\ColasQueue.exe
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\bin\Debug\net8.0\ColasQueue.deps.json
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\bin\Debug\net8.0\ColasQueue.runtimeconfig.json
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\bin\Debug\net8.0\ColasQueue.dll
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\bin\Debug\net8.0\ColasQueue.pdb
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.sourcelink.json
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.dll
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\refint\ColasQueue.dll
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.pdb
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ColasQueue.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\DataStructure\ColasQueue\obj\Debug\net8.0\ref\ColasQueue.dll
