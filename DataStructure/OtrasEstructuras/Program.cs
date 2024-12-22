@@ -47,10 +47,6 @@ namespace OtrasEstructuras
             }
 
 
-
-
-
-
             //Dictionary es una estructura de datos que permite almacenar pares de clave-valor
             Dictionary<int, string> diccionario = new Dictionary<int, string>();
             diccionario.Add(1, "uno");
@@ -74,6 +70,19 @@ namespace OtrasEstructuras
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine($"Clave: {item.Key} Valor: {item.Value}");
             }
+
+            //SortedList es una estructura de datos que permite almacenar pares de clave-valor ordenados por la clave
+            SortedList<int, string> sortedList = new SortedList<int, string>();
+            sortedList.Add(3, "tres");
+            sortedList.Add(1, "uno");
+            sortedList.Add(2, "dos");
+
+            foreach (KeyValuePair<int, string> item in sortedList)
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine($"Clave: {item.Key} Valor: {item.Value}");
+            }
+
 
 
 
