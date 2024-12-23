@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\bin\Debug\net8.0\ExpresionDeColecciones.exe
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\bin\Debug\net8.0\ExpresionDeColecciones.deps.json
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\bin\Debug\net8.0\ExpresionDeColecciones.runtimeconfig.json
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\bin\Debug\net8.0\ExpresionDeColecciones.dll
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\bin\Debug\net8.0\ExpresionDeColecciones.pdb
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.sourcelink.json
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.dll
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\refint\ExpresionDeColecciones.dll
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.pdb
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ExpresionDeColecciones.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\DataStructure\ExpresionDeColecciones\obj\Debug\net8.0\ref\ExpresionDeColecciones.dll
