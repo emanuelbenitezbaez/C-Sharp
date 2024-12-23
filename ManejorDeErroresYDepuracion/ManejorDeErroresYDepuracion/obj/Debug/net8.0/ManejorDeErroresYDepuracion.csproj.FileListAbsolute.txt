@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\bin\Debug\net8.0\ManejorDeErroresYDepuracion.exe
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\bin\Debug\net8.0\ManejorDeErroresYDepuracion.deps.json
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\bin\Debug\net8.0\ManejorDeErroresYDepuracion.runtimeconfig.json
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\bin\Debug\net8.0\ManejorDeErroresYDepuracion.dll
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\bin\Debug\net8.0\ManejorDeErroresYDepuracion.pdb
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.sourcelink.json
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.dll
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\refint\ManejorDeErroresYDepuracion.dll
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.pdb
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ManejorDeErroresYDepuracion.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\ManejorDeErroresYDepuracion\ManejorDeErroresYDepuracion\obj\Debug\net8.0\ref\ManejorDeErroresYDepuracion.dll
