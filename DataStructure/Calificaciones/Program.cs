@@ -1,6 +1,5 @@
 ﻿
 
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Calificaciones
 {
@@ -15,14 +14,9 @@ namespace Calificaciones
 
             SortedList<string, int> calificaciones = new SortedList<string, int>();
 
-           
             getCals(studentNames, calificaciones);
 
-            orderedCals(calificaciones);
-
-            showCals(calificaciones);
-
-
+            showCals(calificaciones); // ya están ordenadas automáticamente por clave debido a que es SortedList
         }
 
         private static void getCals(string[] studentNames, SortedList<string, int> calificaciones)
@@ -38,8 +32,6 @@ namespace Calificaciones
                     GetInteger(Console.ReadLine(), out score);
                     calificaciones.Add(item, score);
                 }
-
-
             }
         }
 
@@ -51,11 +43,6 @@ namespace Calificaciones
             }
         }
 
-        private static void orderedCals(SortedList<string, int> calificaciones)
-        {
-            var calificacionesOrdenadas = calificaciones.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
-        }
-
         private static void GetInteger(string? data, out int score)
         {
             if (!int.TryParse(data, out score))
@@ -64,5 +51,6 @@ namespace Calificaciones
             }
         }
     }
-    }
+}
+
 
