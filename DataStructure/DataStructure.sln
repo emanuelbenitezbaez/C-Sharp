@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtrasEstructuras", "OtrasEs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpresionDeColecciones", "ExpresionDeColecciones\ExpresionDeColecciones.csproj", "{DD343772-319A-402C-851C-2B346836A049}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calificaciones", "Calificaciones\Calificaciones.csproj", "{5CC12F3B-DE7C-4395-A385-6B00881AA49C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DD343772-319A-402C-851C-2B346836A049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD343772-319A-402C-851C-2B346836A049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD343772-319A-402C-851C-2B346836A049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC12F3B-DE7C-4395-A385-6B00881AA49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC12F3B-DE7C-4395-A385-6B00881AA49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC12F3B-DE7C-4395-A385-6B00881AA49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC12F3B-DE7C-4395-A385-6B00881AA49C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

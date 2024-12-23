@@ -15,7 +15,7 @@ namespace ExpresionDeColecciones
 
             Console.WriteLine("--------------------------------------");
 
-            List<int> nums = [134, 2097, 3675, 4944, 5984, 6557, 7787, 8224, 9566];
+            List<int> nums = [1342, 2097, 3675, 4944, 5984, 6557, 7787, 8224, 9566];
 
             foreach (int num in nums)
             {
