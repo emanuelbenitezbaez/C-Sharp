@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\ConversionDeTipos\bin\Debug\net9.0\ConversionDeTipos.exe
+C:\Users\benit\Desktop\C#\ConversionDeTipos\bin\Debug\net9.0\ConversionDeTipos.deps.json
+C:\Users\benit\Desktop\C#\ConversionDeTipos\bin\Debug\net9.0\ConversionDeTipos.runtimeconfig.json
+C:\Users\benit\Desktop\C#\ConversionDeTipos\bin\Debug\net9.0\ConversionDeTipos.dll
+C:\Users\benit\Desktop\C#\ConversionDeTipos\bin\Debug\net9.0\ConversionDeTipos.pdb
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.sourcelink.json
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.dll
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\refint\ConversionDeTipos.dll
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.pdb
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ConversionDeTipos.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\ConversionDeTipos\obj\Debug\net9.0\ref\ConversionDeTipos.dll

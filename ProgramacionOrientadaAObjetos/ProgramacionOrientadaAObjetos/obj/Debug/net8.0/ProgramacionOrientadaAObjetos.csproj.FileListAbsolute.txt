@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\net8.0\ProgramacionOrientadaAObjetos.exe
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\net8.0\ProgramacionOrientadaAObjetos.deps.json
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\net8.0\ProgramacionOrientadaAObjetos.runtimeconfig.json
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\net8.0\ProgramacionOrientadaAObjetos.dll
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\net8.0\ProgramacionOrientadaAObjetos.pdb
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.sourcelink.json
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.dll
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\refint\ProgramacionOrientadaAObjetos.dll
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.pdb
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ProgramacionOrientadaAObjetos.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\net8.0\ref\ProgramacionOrientadaAObjetos.dll

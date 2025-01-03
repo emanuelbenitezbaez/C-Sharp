@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProgramacionOrientadaAObjetos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConversionDeTipos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25e612582e533ea65a04f4de72007027d3ac1506")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProgramacionOrientadaAObjetos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProgramacionOrientadaAObjetos")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConversionDeTipos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConversionDeTipos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
