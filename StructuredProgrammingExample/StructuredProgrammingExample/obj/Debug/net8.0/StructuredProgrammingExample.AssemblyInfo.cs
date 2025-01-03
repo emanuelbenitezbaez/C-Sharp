@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StructuredProgrammingExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d0b2fdad5314a43a740100ec034d011a3c59163")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2edf956236130d6b2173dccf9ff54e9ec7d8a929")]
 [assembly: System.Reflection.AssemblyProductAttribute("StructuredProgrammingExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StructuredProgrammingExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

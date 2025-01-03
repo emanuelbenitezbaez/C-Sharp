@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManejorDeErroresYDepuracion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35aece029b4aa4c7463dbe2f892f74a349aa79c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2edf956236130d6b2173dccf9ff54e9ec7d8a929")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManejorDeErroresYDepuracion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManejorDeErroresYDepuracion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

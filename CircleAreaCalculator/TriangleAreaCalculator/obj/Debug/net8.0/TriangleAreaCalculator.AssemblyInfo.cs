@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriangleAreaCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27a38c4cda71ff5fb77f280c5cde1692f7089f3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2edf956236130d6b2173dccf9ff54e9ec7d8a929")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriangleAreaCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriangleAreaCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
