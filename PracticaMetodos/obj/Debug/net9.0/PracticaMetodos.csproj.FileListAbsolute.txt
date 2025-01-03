@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\PracticaMetodos\bin\Debug\net9.0\PracticaMetodos.exe
+C:\Users\benit\Desktop\C#\PracticaMetodos\bin\Debug\net9.0\PracticaMetodos.deps.json
+C:\Users\benit\Desktop\C#\PracticaMetodos\bin\Debug\net9.0\PracticaMetodos.runtimeconfig.json
+C:\Users\benit\Desktop\C#\PracticaMetodos\bin\Debug\net9.0\PracticaMetodos.dll
+C:\Users\benit\Desktop\C#\PracticaMetodos\bin\Debug\net9.0\PracticaMetodos.pdb
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.sourcelink.json
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.dll
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\refint\PracticaMetodos.dll
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.pdb
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\PracticaMetodos.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\PracticaMetodos\obj\Debug\net9.0\ref\PracticaMetodos.dll
