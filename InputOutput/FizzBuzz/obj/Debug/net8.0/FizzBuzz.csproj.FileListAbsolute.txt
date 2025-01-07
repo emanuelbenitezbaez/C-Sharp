@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\InputOutput\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
