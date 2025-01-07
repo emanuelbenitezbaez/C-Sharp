@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validacion", "Validacion\Validacion.csproj", "{ACD71EEF-875E-4313-B520-34545B8B362F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTimesTable", "ExerciseTimesTable\ExerciseTimesTable.csproj", "{7F88824E-CFDB-4A38-8948-863B14793DAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ACD71EEF-875E-4313-B520-34545B8B362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACD71EEF-875E-4313-B520-34545B8B362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACD71EEF-875E-4313-B520-34545B8B362F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F88824E-CFDB-4A38-8948-863B14793DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F88824E-CFDB-4A38-8948-863B14793DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F88824E-CFDB-4A38-8948-863B14793DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F88824E-CFDB-4A38-8948-863B14793DAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
