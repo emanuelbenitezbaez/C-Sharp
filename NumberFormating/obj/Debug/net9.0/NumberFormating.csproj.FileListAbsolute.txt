@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\NumberFormating\bin\Debug\net9.0\NumberFormating.exe
+C:\Users\benit\Desktop\C#\NumberFormating\bin\Debug\net9.0\NumberFormating.deps.json
+C:\Users\benit\Desktop\C#\NumberFormating\bin\Debug\net9.0\NumberFormating.runtimeconfig.json
+C:\Users\benit\Desktop\C#\NumberFormating\bin\Debug\net9.0\NumberFormating.dll
+C:\Users\benit\Desktop\C#\NumberFormating\bin\Debug\net9.0\NumberFormating.pdb
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.sourcelink.json
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.dll
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\refint\NumberFormating.dll
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.pdb
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\NumberFormating.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\NumberFormating\obj\Debug\net9.0\ref\NumberFormating.dll

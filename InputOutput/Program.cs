@@ -7,7 +7,7 @@
 
 
             Console.Write("Por favor, introduce tu edad: ");
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
             
 
             
@@ -25,13 +25,18 @@
             }
 
             Console.WriteLine("Que mensaje quieres repetir?");
-            string mensaje = Console.ReadLine();
+            string? mensaje = Console.ReadLine();
             Console.WriteLine("Cuantas veces quieres repetirlo?");
-            string repeticiones = Console.ReadLine();
+            string? repeticiones = Console.ReadLine();
 
+           
 
             if(int.TryParse(repeticiones, out int repetic))
             {
+                if (repetic <= 0)
+                {
+                    Console.WriteLine("Porfavor ingrese repeticiones mayores a 0.");
+                }
                 for (int i = 0;i < repetic; i++)
                 {
                     Console.WriteLine(mensaje);

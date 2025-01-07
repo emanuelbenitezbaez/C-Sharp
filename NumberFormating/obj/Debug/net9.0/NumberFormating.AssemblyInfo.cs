@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("InputOutput")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("NumberFormating")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+882918a185fc6baa8f7b5bd59ab553e9ff767712")]
-[assembly: System.Reflection.AssemblyProductAttribute("InputOutput")]
-[assembly: System.Reflection.AssemblyTitleAttribute("InputOutput")]
+[assembly: System.Reflection.AssemblyProductAttribute("NumberFormating")]
+[assembly: System.Reflection.AssemblyTitleAttribute("NumberFormating")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
