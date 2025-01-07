@@ -7,6 +7,7 @@
             Console.WriteLine("Ingresa el precio del producto:");
             string? precio = Console.ReadLine();
 
+
             if(int.TryParse(precio, out var prec))
             {
                 Console.WriteLine($"Precio del producto: {prec.ToString("N")}");
@@ -36,7 +37,7 @@
             int numero2 = 5;
             Console.WriteLine(numero2.ToString("D5")); // Salida: 00005
 
-
+            
 
         }
     }

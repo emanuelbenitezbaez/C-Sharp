@@ -1,7 +1,4 @@
-﻿
-
-
-namespace PracticaMetodos
+﻿namespace PracticaMetodos
 {
     internal class Program
     {
