@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLiteral", "StringLite
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringComparation", "StringComparation\StringComparation.csproj", "{2F2689A2-C833-44D6-B1DB-924F0E42D79E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringIteration", "StringIteration\StringIteration.csproj", "{15988A21-7BDA-4BC7-83E9-1631CBE3AB2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2F2689A2-C833-44D6-B1DB-924F0E42D79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F2689A2-C833-44D6-B1DB-924F0E42D79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F2689A2-C833-44D6-B1DB-924F0E42D79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15988A21-7BDA-4BC7-83E9-1631CBE3AB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15988A21-7BDA-4BC7-83E9-1631CBE3AB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15988A21-7BDA-4BC7-83E9-1631CBE3AB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15988A21-7BDA-4BC7-83E9-1631CBE3AB2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

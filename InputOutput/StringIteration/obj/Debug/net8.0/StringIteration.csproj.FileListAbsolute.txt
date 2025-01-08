@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\bin\Debug\net8.0\StringIteration.exe
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\bin\Debug\net8.0\StringIteration.deps.json
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\bin\Debug\net8.0\StringIteration.runtimeconfig.json
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\bin\Debug\net8.0\StringIteration.dll
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\bin\Debug\net8.0\StringIteration.pdb
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.sourcelink.json
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.dll
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\refint\StringIteration.dll
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.pdb
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\StringIteration.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\InputOutput\StringIteration\obj\Debug\net8.0\ref\StringIteration.dll
