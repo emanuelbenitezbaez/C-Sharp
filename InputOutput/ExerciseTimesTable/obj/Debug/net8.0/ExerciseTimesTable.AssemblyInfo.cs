@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciseTimesTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ca5b66590591bdd40400559b20194f99578b93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ddc94c4d200068c6dcf8c4cc7d17a571205207")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciseTimesTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciseTimesTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

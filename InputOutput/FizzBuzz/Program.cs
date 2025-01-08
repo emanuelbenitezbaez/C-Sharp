@@ -32,18 +32,23 @@
                         Console.WriteLine("Error, debe ingresar un numero mayor a 0");
                     }
 
+
+                    bool divididoTres = false;
+                    bool divididoCinco = false;
                     for (int i = 1; i <= num; i++)
                     {
+                        divididoTres = i % 3 == 0;
+                        divididoCinco = i % 5 == 0;
 
-                        if (i % 3 == 0 && i % 5 == 0)
+                        if ( divididoTres && divididoCinco )
                         {
                             Console.WriteLine("FizzBuzz");
                         }
-                        else if (i % 3 == 0)
+                        else if (divididoTres)
                         {
                             Console.WriteLine("fizz");
                         }
-                        else if (i % 5 == 0)
+                        else if (divididoCinco)
                         {
                             Console.WriteLine("buzz");
                         }
