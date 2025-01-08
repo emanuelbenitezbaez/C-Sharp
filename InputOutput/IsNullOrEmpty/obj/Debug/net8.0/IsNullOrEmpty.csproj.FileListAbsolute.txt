@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\bin\Debug\net8.0\IsNullOrEmpty.exe
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\bin\Debug\net8.0\IsNullOrEmpty.deps.json
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\bin\Debug\net8.0\IsNullOrEmpty.runtimeconfig.json
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\bin\Debug\net8.0\IsNullOrEmpty.dll
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\bin\Debug\net8.0\IsNullOrEmpty.pdb
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.sourcelink.json
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.dll
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\refint\IsNullOrEmpty.dll
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.pdb
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\IsNullOrEmpty.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\InputOutput\IsNullOrEmpty\obj\Debug\net8.0\ref\IsNullOrEmpty.dll
