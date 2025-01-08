@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("InputOutput")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StringComparation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a6eded783a735292ce5cfc50762de37e8c21413")]
-[assembly: System.Reflection.AssemblyProductAttribute("InputOutput")]
-[assembly: System.Reflection.AssemblyTitleAttribute("InputOutput")]
+[assembly: System.Reflection.AssemblyProductAttribute("StringComparation")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StringComparation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

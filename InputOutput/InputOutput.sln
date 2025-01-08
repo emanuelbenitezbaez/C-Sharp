@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLiteral", "StringLiteral\StringLiteral.csproj", "{E81ABB99-FB1B-4691-A39B-E1276153EE56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringComparation", "StringComparation\StringComparation.csproj", "{2F2689A2-C833-44D6-B1DB-924F0E42D79E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E81ABB99-FB1B-4691-A39B-E1276153EE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E81ABB99-FB1B-4691-A39B-E1276153EE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E81ABB99-FB1B-4691-A39B-E1276153EE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2689A2-C833-44D6-B1DB-924F0E42D79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2689A2-C833-44D6-B1DB-924F0E42D79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2689A2-C833-44D6-B1DB-924F0E42D79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2689A2-C833-44D6-B1DB-924F0E42D79E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
