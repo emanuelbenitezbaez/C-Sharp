@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\bin\Debug\net8.0\ExerciseReverseMessage.exe
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\bin\Debug\net8.0\ExerciseReverseMessage.deps.json
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\bin\Debug\net8.0\ExerciseReverseMessage.runtimeconfig.json
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\bin\Debug\net8.0\ExerciseReverseMessage.dll
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\bin\Debug\net8.0\ExerciseReverseMessage.pdb
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.sourcelink.json
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.dll
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\refint\ExerciseReverseMessage.dll
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.pdb
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ExerciseReverseMessage.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\InputOutput\Exercise\obj\Debug\net8.0\ref\ExerciseReverseMessage.dll

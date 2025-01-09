@@ -6,10 +6,12 @@
         {
             // IsNullOrEmpty method
 
-            string? str;
+            Console.WriteLine($"Ingrese un dato o no:");
+            string? str = Console.ReadLine();
             bool isValid;
 
-            str = "dato";
+            //if the strings is null or empty this method returns true else false.
+
             isValid = string.IsNullOrEmpty(str);
 
             if (isValid )
