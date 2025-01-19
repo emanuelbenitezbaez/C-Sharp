@@ -12,7 +12,7 @@
             int[] array = { 1, 2, 3 };//
             int[] array2 = new int[] { 1, 2,3 };
             int[] array3 = [1,2,3,4];
-            int[] array4 = new int[4] {1,2,3,4};
+            int[] array4 = [1,2,3,4];
             int[] array5 = new int[5];
 
 
@@ -48,6 +48,8 @@
             {
                 Console.WriteLine("Cadena: " + i + arregloCadena[i]);
             }
+
+
 
         }
     }
