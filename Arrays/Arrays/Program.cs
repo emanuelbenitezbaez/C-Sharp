@@ -16,7 +16,7 @@
             
 
             Console.WriteLine("Cuantos enteros desea ingresar?");
-            int cantidad = int.Parse(Console.ReadLine());
+            int cantidad = Convert.ToInt32(Console.ReadLine());
 
             int[] array5 = new int[cantidad];
 
@@ -40,12 +40,14 @@
 
 
             //CARGA DE ARRAY DE STRINGS
-            string[] arregloCadena = new string[3];
+            string[] arregloCadena = new string[cantidad];
 
-            for (int i = 0;i <arregloCadena.Length;i++)
+            for (int i = 0;i < arregloCadena.Length;i++)
             {
                 Console.WriteLine("Ingresa una palabra:");
-                arregloCadena[i]= Console.ReadLine();
+                arregloCadena[i] = Console.ReadLine();
+
+               
             }
 
             for(int i = 0; i < arregloCadena.Length; i++)
