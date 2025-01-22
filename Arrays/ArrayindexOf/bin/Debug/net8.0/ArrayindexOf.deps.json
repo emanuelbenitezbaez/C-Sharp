@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayindexOf/1.0.0": {
+        "runtime": {
+          "ArrayindexOf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayindexOf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

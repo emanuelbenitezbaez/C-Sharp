@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAngleEx", "ArraysAngl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySorting", "ArraySorting\ArraySorting.csproj", "{5D53F68C-DEBD-4133-B5A3-78535557ADEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayindexOf", "ArrayindexOf\ArrayindexOf.csproj", "{C6EDABC3-3CB0-42C1-A08E-D7754AD864EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5D53F68C-DEBD-4133-B5A3-78535557ADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D53F68C-DEBD-4133-B5A3-78535557ADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D53F68C-DEBD-4133-B5A3-78535557ADEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EDABC3-3CB0-42C1-A08E-D7754AD864EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EDABC3-3CB0-42C1-A08E-D7754AD864EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EDABC3-3CB0-42C1-A08E-D7754AD864EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EDABC3-3CB0-42C1-A08E-D7754AD864EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

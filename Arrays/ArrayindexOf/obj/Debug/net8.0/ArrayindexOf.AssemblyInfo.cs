@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ArraysAngleEx")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ArrayindexOf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6a323f36a1cdf02b520a539457db5bc1dbc828")]
-[assembly: System.Reflection.AssemblyProductAttribute("ArraysAngleEx")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ArraysAngleEx")]
+[assembly: System.Reflection.AssemblyProductAttribute("ArrayindexOf")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ArrayindexOf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
