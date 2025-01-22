@@ -32,7 +32,18 @@
             Array.Sort(arr);
             Console.WriteLine("Arreglo ordenado:");
             foreach (int value in arr)
+            {
                 Console.Write(value + " ");
+            }
+
+            Console.WriteLine();
+            Array.Reverse(arr);
+            Console.WriteLine("Arreglo reverse:");
+
+            foreach (int value in arr)
+            {
+                Console.Write(value + " ");
+            }
         }
     }
 }
