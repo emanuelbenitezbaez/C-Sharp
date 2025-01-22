@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\List\List\bin\Debug\net8.0\List.exe
+C:\Users\benit\Desktop\C#\List\List\bin\Debug\net8.0\List.deps.json
+C:\Users\benit\Desktop\C#\List\List\bin\Debug\net8.0\List.runtimeconfig.json
+C:\Users\benit\Desktop\C#\List\List\bin\Debug\net8.0\List.dll
+C:\Users\benit\Desktop\C#\List\List\bin\Debug\net8.0\List.pdb
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.sourcelink.json
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.dll
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\refint\List.dll
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.pdb
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\List\List\obj\Debug\net8.0\ref\List.dll
