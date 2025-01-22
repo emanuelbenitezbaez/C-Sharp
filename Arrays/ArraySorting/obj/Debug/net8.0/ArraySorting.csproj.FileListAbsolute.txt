@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\bin\Debug\net8.0\ArraySorting.exe
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\bin\Debug\net8.0\ArraySorting.deps.json
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\bin\Debug\net8.0\ArraySorting.runtimeconfig.json
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\bin\Debug\net8.0\ArraySorting.dll
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\bin\Debug\net8.0\ArraySorting.pdb
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.sourcelink.json
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.dll
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\refint\ArraySorting.dll
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.pdb
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ArraySorting.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\Arrays\ArraySorting\obj\Debug\net8.0\ref\ArraySorting.dll

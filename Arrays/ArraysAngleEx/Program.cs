@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
 
-            int angleCount = 3;
+
+            Console.WriteLine("Ingrese la cantidad de angulos qued esea ingresar:");
+            int angleCount = Convert.ToInt32(Console.ReadLine());
+
             int[] angles = new int[angleCount];
 
             for(int i = 0; i < angleCount; i++)
