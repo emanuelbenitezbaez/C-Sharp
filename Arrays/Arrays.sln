@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{BDF39883-6419-49FC-A068-0DFEB272E56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAngleEx", "ArraysAngleEx\ArraysAngleEx.csproj", "{082C4F2B-CA22-4EC3-92A0-F8F4F99B4659}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BDF39883-6419-49FC-A068-0DFEB272E56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF39883-6419-49FC-A068-0DFEB272E56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF39883-6419-49FC-A068-0DFEB272E56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082C4F2B-CA22-4EC3-92A0-F8F4F99B4659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082C4F2B-CA22-4EC3-92A0-F8F4F99B4659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082C4F2B-CA22-4EC3-92A0-F8F4F99B4659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082C4F2B-CA22-4EC3-92A0-F8F4F99B4659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

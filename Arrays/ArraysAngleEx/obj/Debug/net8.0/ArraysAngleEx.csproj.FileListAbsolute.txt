@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\bin\Debug\net8.0\ArraysAngleEx.exe
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\bin\Debug\net8.0\ArraysAngleEx.deps.json
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\bin\Debug\net8.0\ArraysAngleEx.runtimeconfig.json
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\bin\Debug\net8.0\ArraysAngleEx.dll
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\bin\Debug\net8.0\ArraysAngleEx.pdb
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.sourcelink.json
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.dll
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\refint\ArraysAngleEx.dll
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.pdb
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ArraysAngleEx.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\Arrays\ArraysAngleEx\obj\Debug\net8.0\ref\ArraysAngleEx.dll
