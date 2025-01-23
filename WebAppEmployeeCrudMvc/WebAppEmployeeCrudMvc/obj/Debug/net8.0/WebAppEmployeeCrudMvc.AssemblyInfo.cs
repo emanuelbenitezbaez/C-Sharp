@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppEmployeeCrudMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d6ead5332ad0979c557b505324b3e0a5313ec90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9d79ddf7bf75b04d2fa16768aa6b628a55e848")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppEmployeeCrudMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppEmployeeCrudMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
