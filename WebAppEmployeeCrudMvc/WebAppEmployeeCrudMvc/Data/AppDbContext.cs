@@ -30,6 +30,7 @@ namespace WebAppEmployeeCrudMvc.Data
 
                 // Configura la propiedad FullName con un máximo de 50 caracteres
                 table.Property(col => col.FullName).HasMaxLength(50);
+                table.Property(col => col.Email).HasMaxLength(50);
             });
 
             // Especifica que la entidad Employee debe mapearse a la tabla "Employee"
