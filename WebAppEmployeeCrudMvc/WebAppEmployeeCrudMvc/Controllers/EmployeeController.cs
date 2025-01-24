@@ -26,5 +26,15 @@ namespace WebAppEmployeeCrudMvc.Controllers
             
             return View();
         }
+
+        [HttpPost]
+        public async Task<IActionResult> NewEmployee(Employee employee)
+        {
+             await _appdbContext.Employees.AddAsync(employee);
+            await _appdbContext.SaveChangesAsync(); 
+            return RedirectToAction(nameof(List));
+        }
+
+
     }
 }

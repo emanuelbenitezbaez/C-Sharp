@@ -7,6 +7,8 @@
 		<div class="col-sm-8 offset-sm-2">
 
 		<h2>Employee List</h2>
+		<a asp-controller="Employee" asp-action="NewEmployee" class="btn btn-success mb-3" >New Employee</a>
+
 		<table class="table table-bordered">
 			<thead>
 				<tr>
@@ -26,8 +28,8 @@
 						<td>@item.IdEmployee</td>
 						<td>@item.FullName</td>
 						<td>@item.Email</td>
-						<td>@item.ContractDate.ToString("dd/mm/yyyy")</td>
-						<td>@(item.Active ? "Yes": "No")</td>
+						<td>@item.ContractDate.ToString("dd/MM/yyyy")</td>
+						<td>@(item.Active ? "Yes":"No")</td>
 						
 
 					</tr>

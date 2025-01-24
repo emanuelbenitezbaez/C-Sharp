@@ -1,5 +1,40 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿
 @{
 }
+@model WebAppEmployeeCrudMvc.Models.Employee;
+
+<div class="row">
+	<div class="col-sm-8 offset-sm-2">
+
+		<h2> New Employee </h2>
+		<form asp-controller="Employee" asp-action="NewEmployee"  method="post">
+			<div class="mb-3"> 
+				<label for="FullName">Full Name</label>
+				<input type="text" name="FullName" id="FullName" class="form-control" required asp-for="FullName">
+			</div>
+
+			<div class="mb-3">
+				<label for="Email">Email</label>
+				<input type="email" name="Email" id="Email" class="form-control" required asp-for="Email">
+			</div>
+
+			<div class="mb-3">
+				<label for="ContractDate">Contract Date</label>
+				<input type="date" name="ContractDate" id="ContractDate" class="form-control" required asp-for="ContractDate">
+			</div>
+
+			<div class="mb-3">
+				<input type="checkbox" name="Active" id="Active" class="form-check-input" asp-for="Active">
+				<label class="form-check-label" for="Active">Active</label>
+			</div>
+
+			<div class="mb-3">
+				<button type="submit" class="btn btn-primary">Save</button>
+				<a asp-controller="Employee" asp-action="List" class="btn btn-warning">Back to List</a>
+			</div>
+
+		</form>
+		
+	</div>
+
+</div>
