@@ -19,5 +19,12 @@ namespace WebAppEmployeeCrudMvc.Controllers
             List<Employee> List = await _appdbContext.Employees.ToListAsync();
             return View(List);
         }
+
+        [HttpGet]
+        public IActionResult NewEmployee()
+        {
+            
+            return View();
+        }
     }
 }
