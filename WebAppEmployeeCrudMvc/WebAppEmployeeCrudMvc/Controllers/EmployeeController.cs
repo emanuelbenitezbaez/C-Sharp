@@ -36,5 +36,37 @@ namespace WebAppEmployeeCrudMvc.Controllers
         }
 
 
+        [HttpGet]
+        public async Task<IActionResult> EditEmployee(int id)
+        {
+            Employee employee = await _appdbContext.Employees.FirstAsync(e => e.IdEmployee == id);
+            return View(employee);
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> EditEmployee(Employee employee)
+        {
+             _appdbContext.Employees.Update(employee);
+             await _appdbContext.SaveChangesAsync();
+            return RedirectToAction(nameof(List));
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> DeleteEmployee(int id)
+        {
+            Employee employee = await _appdbContext.Employees.FirstAsync(e => e.IdEmployee == id);
+            _appdbContext.Employees.Remove(employee);
+            await _appdbContext.SaveChangesAsync();
+            return RedirectToAction(nameof(List));
+        }
+
+
+      
+       
+
+
+
+
     }
 }

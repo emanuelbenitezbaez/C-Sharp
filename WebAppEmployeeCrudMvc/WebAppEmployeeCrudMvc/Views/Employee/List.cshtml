@@ -30,7 +30,17 @@
 						<td>@item.Email</td>
 						<td>@item.ContractDate.ToString("dd/MM/yyyy")</td>
 						<td>@(item.Active ? "Yes":"No")</td>
-						
+						<td>
+							<a asp-controller="Employee"
+							asp-action="EditEmployee"
+							asp-route-id="@item.IdEmployee" 
+							class="btn btn-primary mb-3">Edit Employee</a>
+
+						</td>
+						<td>
+							<a asp-controller="Employee" asp-action="DeleteEmployee" asp-route-id="@item.IdEmployee" onclick="return ConfirmDelete()" class="btn btn-danger mb-3">Delete Employee</a>
+
+						</td>
 
 					</tr>
 				}
@@ -40,3 +50,11 @@
 		</div>
 
 	</div>
+
+@section Scripts{
+<script>
+		function ConfirmDelete() {
+			return confirm('Are you sure you want to delete this employee?');
+		}
+</script>
+						}
