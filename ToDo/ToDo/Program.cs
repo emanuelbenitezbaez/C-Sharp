@@ -23,9 +23,8 @@ namespace ToDo
                 Console.WriteLine("1 - Agregar tarea.");
                 Console.WriteLine("2 - Borrar tarea.");
                 Console.WriteLine("3 - Ver tarea.");
+                Console.WriteLine("4 - Editar tarea.");
                 Console.WriteLine("0 - Salir.");
-
-
 
                 try
                 {
@@ -68,9 +67,6 @@ namespace ToDo
                         case 3:
                             Console.WriteLine("Tareas:");
 
-                        
-
-
                             if (tasks.Count == 0)
                             {
                                 Console.WriteLine("No hay tareas por hacer.");
@@ -81,6 +77,27 @@ namespace ToDo
                                 {
                                     Console.WriteLine(i + " - " + tasks[i]);
                                 }
+                            }
+                            break;
+                            case 4:
+                            Console.WriteLine("Ingrese el número de la tarea a editar:");
+                            if (int.TryParse(Console.ReadLine(), out int index2) && index2 >= 0 && index2 < tasks.Count)
+                            {
+                                Console.WriteLine("Ingrese la nueva tarea:");
+                                string? newTask = Console.ReadLine();
+                                if (!string.IsNullOrEmpty(newTask))
+                                {
+                                    tasks[index2] = newTask;
+                                    Console.WriteLine("Tarea editada!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("La tarea no puede estar vacía.");
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Número de tarea no válido.");
                             }
                             break;
 
