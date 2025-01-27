@@ -21,7 +21,7 @@ namespace Calculator
                 Console.WriteLine("4 - Division.");
                 Console.WriteLine("0 - Salir.");
 
-                int option = int.Parse(Console.ReadLine());
+                int option = leerNumero("Seleccione una opción: ");
                 switch (option)
                 {
 
@@ -31,46 +31,38 @@ namespace Calculator
                         break;
 
                     case 1:
-                        Console.WriteLine("Ingrese el primer numero:");
-                        int num1 = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Ingrese el segundo numero:");
-                        int num2 = int.Parse(Console.ReadLine());
-                         int res = suma(num1,num2);
+                        int num1 =  leerNumero("Ingrese el primer numero:");
+                        int num2 = leerNumero("Ingrese el segundo numero:");
+                        int res = suma(num1,num2);
                         Console.WriteLine("El resultado de la suma es: " + res);
                         break;
 
                     case 2:
-                        Console.WriteLine("Ingrese el primer numero:");
-                        int numero1 = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Ingrese el segundo numero:");
-                        int numero2 = int.Parse(Console.ReadLine());
-                        int resResta = resta(numero1,numero2);
+                        int numResta1 = leerNumero("Ingrese el primer numero:");
+                        int numResta2 = leerNumero("Ingrese el segundo numero:");
+                        int resResta = resta(numResta1, numResta2);
                         Console.WriteLine("El resultado de la resta es: " + resResta);
                         break;
 
                     case 3:
-                        Console.WriteLine("Ingrese el primer numero:");
-                        int numeroMulti1 = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Ingrese el segundo numero:");
-                        int numeroMulti2 = int.Parse(Console.ReadLine());
+                        int numeroMulti1 = leerNumero("Ingrese el primer numero:");
+                        int numeroMulti2 = leerNumero("Ingrese el segundo numero:");
                         int resMulti = multiplicacion(numeroMulti1, numeroMulti2);
                         Console.WriteLine("El resultado de la resta es: " + resMulti);
                         break;
 
                     case 4:
-                        Console.WriteLine("Ingrese el primer numero:");
-                        int numeroDivi1 = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Ingrese el segundo numero:");
-                        int numeroDivi2 = int.Parse(Console.ReadLine());
+                        int numDiv1 = leerNumero("Ingrese el primer numero:");
+                        int numDiv2 = leerNumero("Ingrese el primer numero:");
 
-                        if (numeroDivi2 == 0)
+                        if (numDiv2 == 0)
                         {
                             Console.WriteLine("No se puede dividir por 0.");
                             break;
                         }
                         else
                         {
-                            float resDivi = division(numeroDivi1, numeroDivi2);
+                            float resDivi = division(numDiv1, numDiv2);
                             Console.WriteLine("El resultado de la resta es: " + resDivi);
                         }
                         
@@ -98,11 +90,29 @@ namespace Calculator
             return num1 * num2;
         }
 
-        //Funciones
 
         private static int suma(int num1, int num2)
         {
             return num1 + num2;
+        }
+
+       
+
+        private static int leerNumero(string mensaje)
+        {
+            int numero;
+            while (true)
+            {
+                Console.WriteLine(mensaje);
+                if (int.TryParse(Console.ReadLine(), out numero))
+                {
+                    return numero;
+                }
+                else
+                {
+                    Console.WriteLine("Entrada no válida. Por favor, ingrese un número.");
+                }
+            }
         }
     }
 }
