@@ -8,13 +8,14 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----CALCULATOR----");
+            Console.WriteLine("!----CALCULATOR----!");
 
             bool isValid = true;
 
             while (isValid)
             {
                 Console.WriteLine("MENU:");
+
                 Console.WriteLine("1 - Suma.");
                 Console.WriteLine("2 - Resta.");
                 Console.WriteLine("3 - Multiplicacion.");
