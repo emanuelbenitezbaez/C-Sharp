@@ -1,0 +1,15 @@
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\bin\Debug\net8.0\numberOfDigits.exe
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\bin\Debug\net8.0\numberOfDigits.deps.json
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\bin\Debug\net8.0\numberOfDigits.runtimeconfig.json
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\bin\Debug\net8.0\numberOfDigits.dll
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\bin\Debug\net8.0\numberOfDigits.pdb
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.AssemblyInfoInputs.cache
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.AssemblyInfo.cs
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.sourcelink.json
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.dll
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\refint\numberOfDigits.dll
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.pdb
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\numberOfDigits.genruntimeconfig.cache
+C:\Users\benit\Desktop\C#\numberOfDigits\numberOfDigits\obj\Debug\net8.0\ref\numberOfDigits.dll
